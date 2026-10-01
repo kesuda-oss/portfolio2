@@ -39,7 +39,7 @@ Unityで個人開発した3Dアクションゲームです。
 部位欠損した部位に応じてプレイヤーのステータスが低下するため回復のタイミングの重要性や戦闘の緊迫感を増加します。
 
 ## 動画
-https://youtu.be/i7ti6afsAhE
+https://youtu.be/3ZyCKBbOvCw
 
 ## AIの活用について
 
