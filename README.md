@@ -37,7 +37,7 @@ Unityで個人開発した3Dアクションゲームです。
 プレイヤーとの距離によって行動を切り替えるよう実装しました。
 
 ## 動画
-[https://youtu.be/pS2VoTqcC38](https://youtu.be/pS2VoTqcC38)
+https://youtu.be/i7ti6afsAhE
 
 ## 実行方法
 1. リポジトリをクローン
